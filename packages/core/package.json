@@ -321,7 +321,7 @@
     "typescript": "^6.0.3",
     "vite": "catalog:",
     "vitest": "^4.1.5",
-    "ws": "^8.18.0"
+    "ws": "^8.21.0"
   },
   "peerDependencies": {
     "@ai-sdk/anthropic": ">=3",
